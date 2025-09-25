@@ -40,7 +40,7 @@ substitution is common in my substitution table.
 Thus works because "awesome" is common, and "s" deletion after "e" is in the 
 deletion table with decent probability.
 
-Here are some specific sceneratios in which my spelling corrector does not work well:
+# Here are some specific sceneratios in which my spelling corrector does not work well:
 
 1. Ambiguity between real words: Input: "from" (intended "form")
 This word is kept as "from" because the word "from" is very common and therefore
